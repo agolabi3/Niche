@@ -210,11 +210,11 @@ nav li a:hover {
   box-sizing: border-box;
   padding: 10px 50px 40px 50px;
 }
-#featProdsSection {
+#featuredProductSection {
   margin-top: 30px;
 }
 
-#featProdsSection h2 {
+#featuredProductSection h2{
   font-size: 25px;
   padding-top: 25px;
   text-align: center;
